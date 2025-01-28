@@ -1,0 +1,71 @@
+/* Admin Page Styling */
+.admin-page {
+    padding-top: 70px; /* Offset for fixed navbar */
+  }
+  
+  .admin-content {
+    padding: 20px;
+  }
+  
+  /* Navbar Styling */
+  .navbar {
+    box-shadow: 0 2px 4px rgba(0, 0, 0, 0.1);
+  }
+  
+  .navbar-brand {
+    font-weight: bold;
+    font-size: 1.5rem;
+  }
+  
+  .nav-link {
+    font-size: 1.1rem;
+  }
+  
+  .nav-link.active {
+    font-weight: bold;
+    color: #fff !important;
+  }
+  
+  /* Table Styling */
+  .table {
+    margin-top: 20px;
+  }
+  
+  .table thead {
+    background-color: #f8f9fa;
+  }
+  
+  .table th,
+  .table td {
+    vertical-align: middle;
+  }
+  
+  /* Button Styling */
+  .btn-sm {
+    margin: 2px;
+  }
+  
+  /* Card Styling */
+  .card {
+    margin-bottom: 20px;
+    border: none;
+    box-shadow: 0 2px 4px rgba(0, 0, 0, 0.1);
+  }
+  
+  .card-title {
+    font-size: 1.25rem;
+    font-weight: bold;
+  }
+  
+  .card-text {
+    color: #555;
+  }
+  
+  /* Search Bar Styling */
+  .form-control {
+    border-radius: 20px;
+  }
+  
+  .btn-outline-light {
+    border-radius: 20px;
+  }
