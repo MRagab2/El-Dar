@@ -1,0 +1,14 @@
+{
+  "files": {
+    "main.css": "/MRagab2/El-Dar/client/static/css/main.b2ed7f4e.css",
+    "main.js": "/MRagab2/El-Dar/client/static/js/main.3292c462.js",
+    "index.html": "/MRagab2/El-Dar/client/index.html",
+    "static/media/AdminPage.CSS": "/MRagab2/El-Dar/client/static/media/AdminPage.8ff809f30c9c2c9125d2.CSS",
+    "main.b2ed7f4e.css.map": "/MRagab2/El-Dar/client/static/css/main.b2ed7f4e.css.map",
+    "main.3292c462.js.map": "/MRagab2/El-Dar/client/static/js/main.3292c462.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.b2ed7f4e.css",
+    "static/js/main.3292c462.js"
+  ]
+}
